@@ -1,5 +1,8 @@
 {
   "releases": {
+    "1.6.2-test2": [
+      "[Improved] Upgrade to Electron 3"
+    ],
     "1.6.2-beta1": [
       "[Added] Automatic switching between Dark and Light modes on macOS - #5037. Thanks @say25!",
       "[Added] Lua and Fortran syntax highlighting - #6700. Thanks @SimpleBinary!",
